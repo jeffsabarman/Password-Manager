@@ -19,7 +19,7 @@ while user != admin_password:
     if user == 'q':
         break
 
-#try and except function for create the table
+#try and except function to create the table
 #The table name here is password
 #Service and password is the name of the column
 try:
